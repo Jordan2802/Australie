@@ -19,10 +19,7 @@ h1{
  font-size: 30px
 }
 
-h2{
-font-size: 15px;
-color: #e1ddcd;
-}
+
 
 h3{
 
@@ -47,6 +44,14 @@ header nav ul li a{
   color: white;
 }
 
+header h1{
+
+}
+
+header h2{
+font-size: 15px;
+color: #e1ddcd ;
+}
 
 /**/
 
