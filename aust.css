@@ -66,7 +66,32 @@ color: #e1ddcd ;
 margin-bottom: 30px;
 padding-left: 30px;
 }
+p{
+  text-align: justify;
+  font-size: 18px;
+  border: 2px solid black;
+  box-shadow: 2px 2px 2px black;
+  width: 800px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
+h2{
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: center;
+}
+.listpop{
+    text-align: center;
+}
+#carte{
+  margin-left: 25%;
+}
 /**/
 
 
