@@ -1,32 +1,50 @@
 /*CSS Général*/
-*{
+* {
+ margin:0;
+ padding:0;
+ }
 
-}
+html, body {
+ margin:0;
+ padding:0;
+ }
 
 body{
 
 }
 
 h1{
+  color:  #f8db82;
  font-family: Anton,serif;
+ font-size: 30px
 }
 
 h2{
-
+font-size: 15px;
+color: #e1ddcd;
 }
 
 h3{
 
 }
 
-
+a{
+  text-decoration: none;
+}
 /*Header*/
 header{
-  background-image: image();
+  background-color:  #3f3f3f;
+  height: 150px;
 }
 
-header li{
+header nav ul li{
   list-style-type: none;
+  display: inline-block;
+}
+
+header nav ul li a{
+  text-transform: uppercase;
+  color: white;
 }
 
 
