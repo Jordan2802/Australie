@@ -60,12 +60,13 @@ header h1{
 margin-bottom:
 }
 
-header h2{
+header h5{
 font-size: 15px;
 color: #e1ddcd ;
 margin-bottom: 30px;
 padding-left: 30px;
 }
+
 p{
   text-align: justify;
   font-size: 18px;
