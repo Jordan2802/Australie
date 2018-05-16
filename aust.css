@@ -71,7 +71,7 @@ margin-bottom: 30px;
 padding-left: 30px;
 }
 
-p{
+.cadre{
   text-align: justify;
   font-size: 18px;
   border: 2px solid black;
@@ -84,7 +84,9 @@ p{
   padding-left: 20px;
   padding-right: 20px;
 }
-
+.climat{
+  text-align: center;
+}
 h2{
   font-weight: bold;
   font-size: 30px;
@@ -97,6 +99,11 @@ h2{
 #carte{
   margin-left: 25%;
 }
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /**/
 
 
