@@ -108,8 +108,9 @@ h3{
 .listpop{
     text-align: center;
 }
-#carte{
-  margin-left: 25%;
+.carte{
+  text-align: center;
+  margin-top: 10px;
 }
 table{
   margin-left: auto;
