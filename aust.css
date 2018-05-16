@@ -93,11 +93,12 @@ h2{
   font-size: 30px;
   text-decoration: underline;
   text-align: center;
-  color:  #3b629b;*
+  color:  white;
+  text-shadow: 2px 2px 2px black;
 
 }
 h3{
-  color: #900C3F;
+  color: #3b629b;
   text-align: center;
   font-weight: bolder;
   margin-bottom: 10px;
