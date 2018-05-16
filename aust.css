@@ -27,7 +27,7 @@ a{
 /*Header*/
 header{
   background-image: url(photo_accueil/sidney.jpg);
-  height: 400px;
+  height: 422px;
 }
 
 .titre{
@@ -38,7 +38,7 @@ header nav{
   background-color: #363636;
   padding-top: 10px;
   padding-bottom: 10px;
-  margin-bottom: 60px;
+  margin-bottom: 22px;
 }
 
 header nav ul{
