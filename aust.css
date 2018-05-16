@@ -23,6 +23,32 @@ h1{
 a{
   text-decoration: none;
 }
+
+h2{
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: center;
+  color:  white;
+  text-shadow: 2px 2px 2px black;
+
+}
+h3{
+  color: #3b629b;
+  text-align: center;
+  font-weight: bolder;
+  margin-bottom: 10px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+}
+
+
+h4{
+font-size: 15px;
+color: #e1ddcd ;
+}
+
+
 /*Header*/
 header{
   background-image: url(photo_accueil/sidney.jpg);
@@ -34,10 +60,6 @@ header h1{
   padding-left: 30px;
 }
 
-
-.titre{
-
-}
 header nav{
   margin-top: 220px;
   background-color: #363636;
@@ -69,16 +91,13 @@ header h1{
 margin-bottom:
 }
 
-h4{
-font-size: 15px;
-color: #e1ddcd ;
-}
-
 header h4{
   margin-bottom: 30px;
   padding-left: 30px;
 }
 
+
+/*body*/
 
 .cadre{
   text-align: justify;
@@ -101,23 +120,7 @@ header h4{
   text-align: center;
   margin-top: 10px;
 }
-h2{
-  font-weight: bold;
-  font-size: 30px;
-  text-decoration: underline;
-  text-align: center;
-  color:  white;
-  text-shadow: 2px 2px 2px black;
 
-}
-h3{
-  color: #3b629b;
-  text-align: center;
-  font-weight: bolder;
-  margin-bottom: 10px;
-  font-family: 'Indie Flower', cursive;
-  font-size: 25px;
-}
 .listpop{
     text-align: center;
 }
@@ -132,19 +135,6 @@ table{
 .margeo p{
   margin-bottom: 15px;
 }
-
-
-/**/
-
-
-/**/
-
-
-/**/
-
-
-
-/**/
 
 
 /*Footer*/
