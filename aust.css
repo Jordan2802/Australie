@@ -117,4 +117,9 @@ table{
 /**/
 
 
-/**/
+/*Footer*/
+
+footer{
+  height: 300px;
+  background-color: #363636; 
+}
