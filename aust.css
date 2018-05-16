@@ -17,8 +17,7 @@ h1{
  color:  #f8db82;
  font-family: Anton,serif;
  font-size: 36px;
- padding-top: 100px;
- padding-left: 30px;
+
 }
 
 a{
@@ -29,6 +28,12 @@ header{
   background-image: url(photo_accueil/sidney.jpg);
   height: 422px;
 }
+
+header h1{
+  padding-top: 100px;
+  padding-left: 30px;
+}
+
 
 .titre{
 
@@ -64,12 +69,16 @@ header h1{
 margin-bottom:
 }
 
-header h4{
+h4{
 font-size: 15px;
 color: #e1ddcd ;
-margin-bottom: 30px;
-padding-left: 30px;
 }
+
+header h4{
+  margin-bottom: 30px;
+  padding-left: 30px;
+}
+
 
 .cadre{
   text-align: justify;
@@ -137,6 +146,14 @@ table{
 /*Footer*/
 
 footer{
-  height: 300px;
+  height: 200px;
   background-color: #363636;
+}
+
+ .titre_footer{
+  margin-top: 30px;
+  margin-left: 20px;
+  padding-left: 20px;
+  padding-top: 50px;
+  border-right: 1px solid white;
 }
