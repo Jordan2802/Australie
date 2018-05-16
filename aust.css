@@ -83,6 +83,7 @@ padding-left: 30px;
   margin-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
+  background-color: rgba(190,140,129,0.5);
 }
 .climat{
   text-align: center;
@@ -92,12 +93,13 @@ h2{
   font-size: 30px;
   text-decoration: underline;
   text-align: center;
-  color: lightblue;
+  color:  #3b629b;
 }
 h3{
-  color: lightgreen;
+  color: #900C3F;
   text-align: center;
   font-weight: bolder;
+  margin-bottom: 10px;
 }
 .listpop{
     text-align: center;
@@ -109,6 +111,10 @@ table{
   margin-left: auto;
   margin-right: auto;
 }
+.margeo p{
+  margin-bottom: 15px;
+}
+
 
 /**/
 
