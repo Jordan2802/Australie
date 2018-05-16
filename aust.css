@@ -97,6 +97,10 @@ header h4{
 .climat{
   text-align: center;
 }
+.drapeau{
+  text-align: center;
+  margin-top: 10px;
+}
 h2{
   font-weight: bold;
   font-size: 30px;
